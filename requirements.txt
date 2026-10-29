@@ -1,7 +1,5 @@
-httpx
-requests
-google-play-scraper
-pycryptodome
-protobuf
-protobuf-decoder
-aiohttp
+flask==3.0.3
+flask-cors==4.0.1
+httpx==0.27.2
+pycryptodome==3.20.0
+protobuf==6.30.0
